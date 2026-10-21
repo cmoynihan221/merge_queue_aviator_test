@@ -1,2 +1,3 @@
 /scripts/create-test-stack.sh
 .idea
+/scripts/create-test-pr.sh
